@@ -1,6 +1,15 @@
 # Testes Automatizados - YouTube
 
+Abaixo, segue o link para o documento contendo todos os cenários que foram desenhados, usando os pontos abordados durante a entrevista.
+https://docs.google.com/document/d/1RjhQ40dNlpJ0GI9FbjKRtK1kUbk5Z-qTFNJYKZtghYg/edit?usp=sharing
+
 Este repositório contém a implementação de testes automatizados para o YouTube, utilizando a abordagem **Behavior-Driven Development (BDD)** com a tecnologia **Selenium WebDriver** e **NUnit**.
+
+Optei por usar um template pronto que integra algumas ferramentas comuns no uso de selenium, para mostrar também a adaptabilidade dos casos desenhados em qualquer ambiente pronto que use o selenium.
+
+Variei um pouco de caso em caso no uso de métodos e comentários do código. 
+
+Só fiz o uso de IA para correções ortográficas e algumas questões de formatação do documento.
 
 ## Cenários de Teste
 
