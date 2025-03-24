@@ -38,7 +38,7 @@ namespace NUnitAutomationFramework.Base
             extent_test.Value = test;
             SetBrowser();
 
-            string? url = GetEnvironementData.GetEnvData();
+            string url = "https://www.youtube.com/";
             ActionsElements.NavigateToUrl(driver.Value, url);
             driver.Value.Manage().Window.Maximize();
         }
